@@ -7,7 +7,7 @@
     "start": "node dist/index.js",
     "dev": "node dist/index.js",
     "server": "node dist/server.js",
-    "run:usage": "node dist/usage.js",
+    "usage": "node dist/usage.js",
     "test": "jest"
   },
   "author": "Sankar boro <sankar.boro@yahoo.com>",
